@@ -18,7 +18,7 @@ console.log('sumRes', sumRes)
 //   })
 // }
 
-console.log('window.ENV', ENV)
+// console.log('window.ENV', ENV)
 
 // 引入图片
 function insertImgElem(imgFile) {
